@@ -3,5 +3,5 @@
 
 Some materials for students to practice lections on their own.
 
-(c) Ivan :-)
-Tyt bila Nastya
+(c) Ivan :-).
+Tyt bila Nastya.
